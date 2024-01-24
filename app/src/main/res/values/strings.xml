@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="send_and_receive_message">Send and Receive Message</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_message">Send Message</string>
+    <string name="message_sent">Message Sent</string>
+    <string name="please_enter_all_data">Please enter all the data..</string>
+    <string name="read_message">Read Message</string>
+    <string name="please_enter_valid_phone_number_and_mesage">Please enter a valid phone number and message</string>
+    <string name="permission_denied">Permission denied. Please grant the SEND_SMS permission</string>
+    <string name="error_occured">An error occurred</string>
+</resources>
